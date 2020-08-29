@@ -1,4 +1,5 @@
 FROM openjdk:10-jre-slim
+MAINTAINER n8acl@protonmail.com
 COPY * /usr/app/
 WORKDIR /usr/app/
 EXPOSE 8200
