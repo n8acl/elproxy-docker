@@ -73,8 +73,9 @@ Now try to connect to your Echolink Proxy and the rest of the network.
 If you have questions, please feel free to reach out to me. You can reach me in one of the following ways:
 
 - Twitter: @n8acl
-- Telegram: @ravendos
-- E-mail: n8acl@protonmail.com
+- Discord: Ravendos#7364
+- Mastodon: @n8acl@mastodon.radio
+- E-mail: n8acl@qsl.net
 
 If you reach out to me and have an error, please include what error you are getting and what you were doing. I may also ask you to send me certain files to look at. Otherwise just reach out to me :).
 
@@ -82,4 +83,6 @@ If you reach out to me and have an error, please include what error you are gett
 
 ## Change Log
 
-08/29/2020 - Initial Release
+* 03/29/2022 - Updated Contact Information on README.md
+
+* 08/29/2020 - Initial Release
