@@ -36,7 +36,7 @@ version: '3.2'
 
 services:
   elproxy:
-    image: n8acl/elproxy:<tag>
+    image: n8acl/elproxy:latest
     container_name: elproxy
     restart: unless-stopped
     ports:
@@ -81,6 +81,7 @@ If you reach out to me and have an error, please include what error you are gett
 ---
 
 ## Change Log
+* 03/18/2023 - Pushed MultiArch Container for amd64 and Raspberry Pi
 
 * 03/29/2022 - Updated Contact Information on README.md
 
